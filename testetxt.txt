@@ -1,0 +1,14 @@
+Primeiro arquivo txt para o git
+
+
+faremos mais modificacoes para teste
+
+Novas alterações foram realizadas após a criação do arquivo.
+
+
+Novo teste após modificação do arquivo comitado!
+
+
+
+
+Novamente
